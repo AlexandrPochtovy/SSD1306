@@ -1,10 +1,13 @@
 /**
  * original author:  Tilen Majerle<tilen@majerle.eu>
  * modification for STM32f10x: Alexander Lutsai<s.lyra@ya.ru>
+ * modification for STM32f10x: Alexandr Pochtovy<alex.mail.prime@gmail.com>
+ * 
 
    ----------------------------------------------------------------------
    	Copyright (C) Alexander Lutsai, 2016
     Copyright (C) Tilen Majerle, 2015
+    Copyright (C) Alexandr Pochtovy, 2022
     
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
